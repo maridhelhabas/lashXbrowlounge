@@ -1,0 +1,14 @@
+.sidebar {
+    width: 250px;
+    background-color: #333;
+    color: white;
+    height: 100vh;
+    position: fixed;
+    top: 0;
+    left: 0;
+    overflow-y: auto;
+}
+
+.content {
+    margin-left: 250px; /* Adjust this value to leave space for the sidebar */
+}
